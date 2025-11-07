@@ -7,7 +7,7 @@ Built with clean, modern design and smooth scrolling animations for a profession
 
 **How to Run Locally**
 
-**1. Clone this repository**
+1. Clone this repository**
    ```bash
    git clone https://github.com/yourusername/your-portfolio.git
    
